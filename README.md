@@ -9,8 +9,8 @@ Habit Forest is a habit tracking application that gamifies your daily routine by
 ---
 
 ## ✨ Live Demo
-🔗 **Deployed App:** [https://habitforest.appwrite.network](https://habitforest.appwrite.network)  
-🔗 **Source Code:** [GitHub Repository](https://github.com/your-username/habit-forest)
+🔗 **Deployed App:** [https://habitforest.appwrite.network](https://habit-forest.appwrite.network/)  
+🔗 **Source Code:** [GitHub Repository](https://github.com/rishipandey2/Habit-Forest)
 
 ---
 
